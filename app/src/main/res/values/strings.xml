@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment08-VilmarieT</string>
+    <string name="appTitle">British Royals 101</string>
+    <string name="blurb_queen_elizabeth">Queen for the past few/dozen decades. She loves her corgis more than you.</string>
+    <string name="blurb_prince_philip">You would be as grumpy as him if you did not even get called King. </string>
+    <string name="blurb_prince_charles">Grew up thinking he would be king until he realized his mother is immortal.</string>
+    <string name="blurb_prince_william">Will have no hair by the time he is king.</string>
+    <string name="blurb_duchess_catherine">Perfect hair. Taught every little girl that the way to the future king\'s heart is through a fashion show.</string>
+    <string name="blurb_prince_harry">Wild youth, but all is forgiven after growing a beard and marrying an American foodie/actress.</string>
+    <string name="blurb_fergie">No one likes her.</string>
+    <string name="queen_elizabeth">Queen Elizabeth</string>
+    <string name="prince_philip">Prince Philip</string>
+    <string name="prince_charles">Prince Charles</string>
+    <string name="prince_william">Prince William</string>
+    <string name="duchess_catherine">Duchess Catherine</string>
+    <string name="prince_harry">Prince Harry</string>
+    <string name="fergie">Fergie</string>
+    <string name="accepted_toast">The masses approve.</string>
+    <string name="not_accepted_toast">Masses say: Swipe Left</string>
+</resources>
